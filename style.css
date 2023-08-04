@@ -1,0 +1,33 @@
+body{
+  background-color: darkslategray;
+  color: rgb(209, 209, 209);
+}
+h1{
+  margin-top: 6rem;
+  margin-bottom: 3rem;
+  font-family: 'Roboto', cursive;
+  font-size: 2rem;
+}
+.dice{
+  display: inline-block;
+  margin-left: 1rem;
+}
+footer{
+  margin-top: 6rem;
+  font-family: Arial;
+  text-align: center;
+}
+button{
+  display: block;
+  margin-top: 6rem;
+  margin-bottom: 3rem;
+  font-family: 'Roboto', cursive;
+  font-size: 2rem;
+  color: darkslategray;
+  border-radius: 2rem;
+}
+
+.text{
+  font-family: 'Roboto', cursive;
+  font-size: 3rem;
+}
