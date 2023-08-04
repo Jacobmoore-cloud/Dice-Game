@@ -1,3 +1,3 @@
-# Dice-Game 2o23
+# Dice-Game 2023
 # MooreTech.io
 # Play and have fun
